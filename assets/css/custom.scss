@@ -37,14 +37,12 @@
   width: 200px;
   height: 200px;
   object-fit: cover;           /* Ensures the image fills the area */
-  object-position: center 30%; /* Adjust this to crop vertically or horizontally */
   border-radius: 50%;
   display: block;
   margin: 0 auto;
   border: none !important;
   padding: 0 !important;
   background: none;
-  transform: scale(1.1);       /* This is the "zoom" effect */
 }
 
 
