@@ -1,9 +1,8 @@
-.author__avatar img {
-  width: 300px;      // increase from default ~100px
-  height: auto;
-  border-radius: 50%;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+.author__avatar {
+  width: 150px;
+  height: 150px;
 }
+
 
 .author__name {
   font-size: 2rem;   // increase text size
