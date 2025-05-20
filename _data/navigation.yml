@@ -10,6 +10,9 @@
 main:
   - title: "CV"
     url: /cv/
-    
+      
+  #- title: "Research"
+  #  url: /research/
+
   - title: "Bunnies"
     url: /bunnies/
