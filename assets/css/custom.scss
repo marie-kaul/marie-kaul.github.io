@@ -22,6 +22,7 @@
 
 .sidebar {
   width: 320ox; // or more, if needed
+  margin-right: 2rem; /* Adjust value as needed */
 }
 
 .author__avatar {
@@ -33,8 +34,8 @@
 }
 
 .author__avatar img {
-  width: 250px !important;         /* Increase size */
-  height: 250px !important;        /* Must match width for a perfect circle */
+  width: 200px !important;         /* Increase size */
+  height: 200px !important;        /* Must match width for a perfect circle */
   object-fit: cover !important;    /* Ensures aspect ratio crops correctly */
   border-radius: 50% !important;   /* Makes it circular */
   display: block;
