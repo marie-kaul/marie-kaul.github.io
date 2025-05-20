@@ -34,15 +34,17 @@
 }
 
 .author__avatar img {
-  width: 200px;
-  height: 200px;
-  object-fit: cover;           /* Ensures the image fills the area */
-  border-radius: 50%;
+  width: 200px !important;         /* Increase size */
+  height: 200px !important;        /* Must match width for a perfect circle */
+  object-fit: cover !important;    /* Ensures aspect ratio crops correctly */
+  border-radius: 50% !important;   /* Makes it circular */
   display: block;
   margin: 0 auto;
   border: none !important;
   padding: 0 !important;
-  background: none;
+  background: none !important;
+  max-width: none !important;      /* Prevents shrinking due to global rules */
 }
+
 
 
