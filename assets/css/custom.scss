@@ -21,24 +21,25 @@
 }
 
 .sidebar {
-  width: 280px; // or more, if needed
+  width: 200px; // or more, if needed
 }
 
 .author__avatar {
   text-align: center;
-  padding: 0;          // remove any internal spacing
-  margin: 0;           // remove external spacing
-  background: none;    // ensure no background
-  border: none;        // remove any unintended borders
+  padding: 0;
+  margin: 0;
+  background: none;
+  border: none;
 }
 
 .author__avatar img {
   width: 200px;
   height: 200px;
-  object-fit: cover;   // crop image to fill square area
-  border-radius: 50%;  // makes the image circular
+  object-fit: cover;
+  border-radius: 50%;
   display: block;
-  border: none;        // ensure no border
-  background: none;    // no background
+  margin: 0 auto;
+  border: none !important;   // override theme styles
+  padding: 0 !important;
+  background: none;
 }
-
