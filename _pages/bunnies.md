@@ -5,9 +5,8 @@ permalink: /bunnies/
 author_profile: true
 ---
 
-Just a few minutes from the Economics Department at SU there's a [small farm](https://storaskuggans4hgard.se/) where they have some of the chubbiest bunnies known to man. If you get the chance, definitely go visit! Below are some of my favorite pictures.
+Just a few minutes from the Economics Department at SU live some extremely chubby bunnies. 
 
-<h2>Bunny Gallery</h2>
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px;">
   <img src="/images/bunnies/199E9483-4A8D-4BD5-BF58-922E3392D569_1_105_c.jpeg" alt="Bunny" style="width: 100%; height: auto;">
   <img src="/images/bunnies/1A0B2BE9-6A5E-4921-B6F3-EFD0C4CFD73A_1_105_c.jpeg" alt="Bunny" style="width: 100%; height: auto;">
