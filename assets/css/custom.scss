@@ -25,12 +25,21 @@
 }
 
 .author__avatar {
-  text-align: center; // centers the image if inside a block
+  text-align: center;
+  padding: 0;          // remove any internal spacing
+  margin: 0;           // remove external spacing
+  background: none;    // ensure no background
+  border: none;        // remove any unintended borders
 }
 
 .author__avatar img {
   width: 200px;
   height: 200px;
+  object-fit: cover;   // crop image to fill square area
+  border-radius: 50%;  // makes the image circular
   display: block;
   margin: 0 auto;
+  border: none;        // ensure no border
+  background: none;    // no background
 }
+
