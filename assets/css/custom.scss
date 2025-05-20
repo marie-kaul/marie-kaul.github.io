@@ -28,7 +28,7 @@
   text-align: center;
   padding: 0;          // remove any internal spacing
   margin: 0;           // remove external spacing
-  background: red;    // ensure no background
+  background: none;    // ensure no background
   border: none;        // remove any unintended borders
 }
 
@@ -38,7 +38,6 @@
   object-fit: cover;   // crop image to fill square area
   border-radius: 50%;  // makes the image circular
   display: block;
-  margin: 0 auto;
   border: none;        // ensure no border
   background: none;    // no background
 }
