@@ -1,0 +1,27 @@
+.author__avatar img {
+  width: 150px;      // increase from default ~100px
+  height: auto;
+  border-radius: 50%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.author__name {
+  font-size: 2rem;   // increase text size
+  font-weight: 700;
+  margin-top: 0.5em;
+}
+
+.author__bio,
+.author__pronouns {
+  font-size: 1.1rem; // slightly larger bio
+  line-height: 1.6;
+}
+
+.author__urls-wrapper {
+  margin-top: 1.5em;
+}
+
+.author__urls li {
+  font-size: 1rem;
+  margin-bottom: 0.25em;
+}
