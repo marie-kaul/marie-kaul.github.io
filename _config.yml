@@ -17,6 +17,11 @@ url                      : https://marie-kaul.github.io # the base hostname & pr
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
+# Ensure site is using custom CSS
+minimal_mistakes_skin: "default"  # or your current skin
+sass:
+  style: compressed
+
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
