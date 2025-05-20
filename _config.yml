@@ -32,7 +32,7 @@ author:
   pronouns         : "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : #"Stockholm"
-  employer         : #"Red Brick University"
+  employer         : "Stockholm University"
   uri              : # URL
   email            : "marie.kaul@su.se" 
 
