@@ -8,7 +8,7 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
-@import "custom";            // use custom to enlarge author profile
+@import "../assets/css/custom"          // use custom to enlarge author profile
 
 @import
     "vendor/breakpoint/breakpoint",
