@@ -5,7 +5,7 @@ permalink: /resources/
 author_profile: true
 ---
 
-## Website
+### Website
 
-[This](https://academicpages.github.io/) is the template I used to make this website.
+[This](https://academicpages.github.io/) is the template I used to make this website. It's really very easy!
 
