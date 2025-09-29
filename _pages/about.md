@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD in the Department of Economics at Stockholm University. 
+I am a second-year PhD in the Department of Economics at Stockholm University. 
 
 My research interests include urban, gender, and public economics. 
 
