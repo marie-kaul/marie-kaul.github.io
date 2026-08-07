@@ -18,5 +18,5 @@ Feel free to reach out at marie.kaul@su.se!
 
 ## News
 
-- **Nov 2025:** Received research grants over SEK 240,000 from The Royal Swedish Academy of Sciences [Read more](https://www.su.se/english/divisions/department-of-economics/news/articles/2025-11-24-phd-student-in-economics-awarded-scholarships-for-research-projects).  
+- **Nov 2025:** Received research grants from The Royal Swedish Academy of Sciences [Read more](https://www.su.se/english/divisions/department-of-economics/news/articles/2025-11-24-phd-student-in-economics-awarded-scholarships-for-research-projects).  
 - **Oct 2025:** Presented my work at the SUDSWEC Conference at SSE.
